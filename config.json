@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevtringify",
+        "uuid": 13128220,
+        "checksum": "2k720o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
